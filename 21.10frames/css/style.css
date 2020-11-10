@@ -1,0 +1,8 @@
+.content {
+    box-shadow: 4px 4px 16px black;
+    margin-top: 24px;
+}
+
+.content .row {
+    margin-top: 16px;
+}
