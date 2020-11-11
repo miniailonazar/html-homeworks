@@ -1,0 +1,20 @@
+.app-button {
+    background: linear-gradient(to bottom, #8ddbff, #006ec9);
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 8px 0px;
+    color: #fff;
+    border-radius: 4px;
+    width: 150px;
+    text-align: center;
+    margin: 16px;
+    box-shadow: 0 3px 3px #0098d4;
+    transition: background 2s, box-shadow 200ms, padding 400ms;
+}
+
+.app-button:hover {
+    background: linear-gradient(to top, #8ddbff, #006ec9);
+    box-shadow: none;
+    text-align: center;
+}
